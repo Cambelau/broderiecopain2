@@ -3,10 +3,40 @@
     <title>BroderieCopain</title>
     <link href="https://cambelau.github.io/broderiecopain2/feed.xml" rel="self" />
     <link href="https://cambelau.github.io/broderiecopain2" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-03-07T16:50:55+01:00</updated>
     <author>
         <name>Les Sajot</name>
     </author>
     <id>https://cambelau.github.io/broderiecopain2</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Les Sajot</name>
+        </author>
+        <link href="https://cambelau.github.io/broderiecopain2/test-2.html"/>
+        <id>https://cambelau.github.io/broderiecopain2/test-2.html</id>
+
+        <updated>2025-03-07T16:50:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                    test test tes
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement.png" data-size="275x183"><img loading="lazy" src="https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-thumbnail.png" alt="test" width="275" height="183"></a>
+<figcaption>test</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-2.png" data-size="275x183"><img loading="lazy" src="https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-2-thumbnail.png" alt="tes" width="275" height="183"></a>
+<figcaption>test</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-3.png" data-size="275x183"><img loading="lazy" src="https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-3-thumbnail.png" alt="tes" width="275" height="183"></a>
+<figcaption>tes</figcaption>
+</figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
 </feed>

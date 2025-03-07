@@ -9,5 +9,19 @@
         "name": "Les Sajot"
     },
     "items": [
+        {
+            "id": "https://cambelau.github.io/broderiecopain2/test-2.html",
+            "url": "https://cambelau.github.io/broderiecopain2/test-2.html",
+            "title": "test",
+            "summary": "test test tes",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement.png\" data-size=\"275x183\"><img loading=\"lazy\" src=\"https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-thumbnail.png\" alt=\"test\" width=\"275\" height=\"183\"></a>\n<figcaption>test</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-2.png\" data-size=\"275x183\"><img loading=\"lazy\" src=\"https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-2-thumbnail.png\" alt=\"tes\" width=\"275\" height=\"183\"></a>\n<figcaption>test</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-3.png\" data-size=\"275x183\"><img loading=\"lazy\" src=\"https://cambelau.github.io/broderiecopain2/media/posts/4/gallery/telechargement-3-thumbnail.png\" alt=\"tes\" width=\"275\" height=\"183\"></a>\n<figcaption>tes</figcaption>\n</figure>\n</div></div>",
+            "author": {
+                "name": "Les Sajot"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-07T16:50:55+01:00",
+            "date_modified": "2025-03-07T16:50:55+01:00"
+        }
     ]
 }
