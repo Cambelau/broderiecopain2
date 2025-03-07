@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cambelau.github.io/broderiecopain2/sitemap.xml
